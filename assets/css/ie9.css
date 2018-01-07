@@ -1,27 +1,7 @@
-/* Wrapper */
 
-	#wrapper {
-		opacity: 1;
-	}
+/* Signup Form */
 
-/* Overlay */
-
-	#overlay {
-		opacity: 1;
-	}
-
-/* Header */
-
-	#header {
-		opacity: 1;
-	}
-
-		#header nav li {
-			opacity: 1;
-		}
-
-/* Footer */
-
-	#footer {
-		background-image: url("images/ie/footer.svg");
+	#signup-form > * {
+		display: inline-block;
+		vertical-align: top;
 	}
